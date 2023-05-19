@@ -1,0 +1,7 @@
+{
+  "name": "poc-filesystem",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
